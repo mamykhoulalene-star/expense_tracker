@@ -128,8 +128,6 @@ Budget tracking and alerts
 
 Dark mode support
 
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 👤 Author
 Samy Khoulalene

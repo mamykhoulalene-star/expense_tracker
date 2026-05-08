@@ -14,7 +14,8 @@ A simple and intuitive expense tracking application built with React. Keep track
 - **Real-time Updates**: Total expenses update automatically as you add or remove items
 - **Responsive Design**: Clean and mobile-friendly interface
 
-## 🚀 Demo
+## 🚀 Demo link
+https://expense-tracker-six-plum.vercel.app/
 
 Track your expenses by entering:
 - **Title**: Description of the expense (e.g., "Groceries", "Rent", "Coffee")
